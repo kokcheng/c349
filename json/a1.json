@@ -2,12 +2,12 @@
   "name":"John",
   "age":20,
   modules:[{
-      "c1":"c348",
-      "m1":"iPhone Programming"
+      "code":"c348",
+      "name":"iPhone Programming"
   },
   {
-    "c2":"c349",
-    "m2":"iPad Programming"
+    "code":"c349",
+    "name":"iPad Programming"
   }
   ]
 }
