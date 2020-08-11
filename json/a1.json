@@ -1,14 +1,8 @@
 {
   "name":"John",
   "age":20,
-  modules:["m1":{
-      "c":"c348",
-      "n":"iPhone Programming"
-  },
-  "m2":
-  {
-    "c":"c349",
-    "n":"iPad Programming"
-  }
+  "modules":[
+    {"a":1},
+    {"b":2}
   ]
 }
