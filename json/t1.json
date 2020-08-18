@@ -1,0 +1,8 @@
+[
+  {"name":"john",
+    "friends":["alan", "james"]
+  },
+  {"name":"peter",
+  "friends":["mary", "andy"]
+  }
+]
